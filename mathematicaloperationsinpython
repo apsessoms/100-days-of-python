@@ -1,0 +1,21 @@
+3 + 5
+7 - 3
+
+#instead of using the x symbol, you will use the * asteric
+
+3*2 
+
+6/3 is 6 divided by 3
+print(6 / 3) will give you an answer of 2
+an important note about divison is that your answer will most always result in an floating number. 
+lets type check it....
+print(type(6 / 3))
+<class 'float'>      instead of integer and this just happens with division in python
+
+two ** signs gives you access to an exponent 
+
+2**2 is 
+print(2 ** 2)
+4
+
+when you have more than one operation on the same line of code there is a prioroty level...PEMDAS
